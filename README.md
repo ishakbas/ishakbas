@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ishakbas
+- 👀 I’m interested in creating bot on telegram
+- 🌱 I’m currently learning python
